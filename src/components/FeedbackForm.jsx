@@ -51,11 +51,9 @@ function FeedbackForm() {
         }else{
           addFeedback(newFeedback)
         }
-        
+        //addFeedback(newFeedback)
         setText('')
       }
-
-
      
     }
 
