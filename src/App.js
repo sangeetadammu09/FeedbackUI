@@ -9,7 +9,7 @@ import {FeedbackProvider} from './context/FeedbackContext'
 import Post from './components/Post';
 
 import About from './pages/About'
-import {BrowserRouter as Router,Routes, Route, NavLink} from 'react-router-dom'
+import {BrowserRouter as Router,Routes, Route} from 'react-router-dom'
 
 function App(){   
         return(

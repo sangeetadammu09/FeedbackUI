@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './shared/Card'
 import {FaTimes, FaEdit} from 'react-icons/fa'
-import {useState, useContext} from 'react';
+import { useContext} from 'react';
 import FeedbackContext from '../context/FeedbackContext'
 
 function FeedbackItem({item}) {

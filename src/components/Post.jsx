@@ -1,8 +1,8 @@
 import React from 'react'
-import {useParams, useNavigate, Routes, Route} from 'react-router-dom'
+import {useNavigate, Routes, Route} from 'react-router-dom'
 
 function Post() {
-    const params = useParams()
+   // const params = useParams()
     //const status = 404
     const navigate = useNavigate()
 
